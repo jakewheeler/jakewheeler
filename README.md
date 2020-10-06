@@ -5,7 +5,7 @@ I'm a full-stack developer interested in web development and cloud.
 ## What I'm up to
 
 - 💻 TypeScript, React, Terraform, Python
-- ☁ AWS, Netlify, Heroku
+- ☁ AWS, Netlify, Heroku, Vercel
 
 ## Reach out
 
