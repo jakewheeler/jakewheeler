@@ -11,4 +11,4 @@ I'm a full-stack developer interested in web development and cloud.
 
 - [https://twitter.com/_jakewheeler](https://twitter.com/_jakewheeler)
 - [https://www.jakewheeler.dev/](https://www.jakewheeler.dev/)
-- [https://www.linkedin.com/in/jake-wheeler-416a74180/](https://www.linkedin.com/in/jake-wheeler-416a74180/)
+- [https://www.linkedin.com/in/jakewheeler17](https://www.linkedin.com/in/jakewheeler17)
