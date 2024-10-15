@@ -1,13 +1,15 @@
-# Hey, my name's Jake 👋🏻
+# Hey, my name's Jake 👋
 
-I'm a full-stack developer interested in web development and cloud.
+I'm a full-stack developer interested in web development.
 
-## What I'm up to
+## Tech things I'm currently interested in 💻
 
-- 💻 TypeScript, React, Terraform, Python
-- ☁ AWS, Netlify, Heroku, Vercel
+- Go
+- templ
+- htmx
+- Godot game engine
 
-## Reach out
+## Reach out 📫
 
 - [https://twitter.com/_jakewheeler](https://twitter.com/_jakewheeler)
 - [https://www.jakewheeler.dev/](https://www.jakewheeler.dev/)
