@@ -1,6 +1,6 @@
 # Hey, my name's Jake 👋
 
-I'm a full-stack developer interested in web development.
+I'm a full-stack developer based out of Erie, Pennsylvania.
 
 ## Tech things I'm currently interested in 💻
 
