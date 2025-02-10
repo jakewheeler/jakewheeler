@@ -4,9 +4,8 @@ I'm a full-stack developer based out of Erie, Pennsylvania.
 
 ## Tech things I'm currently interested in 💻
 
-- Go
-- templ
-- htmx
+- TypeScript
+- Next.js
 - Godot game engine
 
 ## Reach out 📫
